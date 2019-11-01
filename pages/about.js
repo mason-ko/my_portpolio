@@ -1,8 +1,10 @@
-import Layout from '../components/layout'
+import Title from '../components/title'
 
 const About = () =>(
-    <Layout>
          <div>
+            <Title>
+                About ME.
+            </Title>
             <style jsx>{`
                     background: rgba(240, 240, 240, 0.7);                
                     text-align: center;
@@ -19,14 +21,14 @@ const About = () =>(
                         font-size: 1.8rem
                     }
                 `}</style>
-
-            <h1> 
-                7년차 서버 개발자<br/>
-                항상 재미있게 일하고자 하며 <br/>
-                새로운것을 공부하는 것을 좋아합니다. <br/>
-            </h1>
+            <div>
+                <h1>                 
+                    7년차 서버 개발자<br/>
+                    항상 재미있게 일하고자 하며 <br/>
+                    새로운것을 공부하는 것을 좋아합니다. <br/>
+                </h1>
+            </div>
         </div>
-    </Layout>
 )
 
 export default About;

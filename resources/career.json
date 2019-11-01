@@ -1,0 +1,26 @@
+[{
+    "start":"2011.12",
+    "end":"2012.08",
+    "company":"아람솔루션",
+    "rank":"사원",
+    "position":"개발팀",
+    "description": "펌웨어 개발 회사로 펌웨어 개발",
+    "skills":["c","embedded"]
+},{
+    "start":"2013.04",
+    "end":"2014.08",
+    "company":"유비베이스",
+    "rank":"연구원",
+    "position":"개발팀",
+    "description": "메신저 개발 업무를 진행",
+    "skills":["csharp","wpf","wcf","mvvm","mssql"]
+},{
+    "start":"2014.11",
+    "end":"2019.06",
+    "company":"엔쓰리엔",
+    "rank":"선임연구원",
+    "position":"DataEngine개발팀",
+    "description": "Server Rest API 및 Data 처리 Server 개발",
+    "skills":["csharp","mongodb","mariadb","cassandra","kafka",
+        "redis","javascript","nodejs","nodered","git","docker","jenkins"]
+}]

@@ -1,5 +1,8 @@
 import 'semantic-ui-css/semantic.min.css'
 import Layout from '../components/layout'
+import About from './about'
+import Skill from './skill'
+import Contact from './contact'
 
 const Index = () => (    
     <Layout>   
@@ -25,6 +28,9 @@ const Index = () => (
                  안녕하세요. 고영민입니다.
              </h1>
         </div>
+        <About/>
+        <Skill/>
+        <Contact/>
     </Layout>
 );
 

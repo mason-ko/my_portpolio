@@ -1,5 +1,4 @@
 import Header from './header';
-import Footer  from './footer';
 import 'semantic-ui-css/semantic.min.css'
 
 const Layout = ({children}) => (
@@ -9,7 +8,6 @@ const Layout = ({children}) => (
         `}</style>
         <Header/>
         {children}
-        <Footer/>
     </div>
 );
  
