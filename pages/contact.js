@@ -2,9 +2,9 @@ import Title from '../components/title'
 import Link from 'next/link'
 
 const Contact = () =>(
-         <div>
+         <div id='contact'>
              <Title>
-                Contact.
+                Contact
             </Title>
             
             <style jsx>{`

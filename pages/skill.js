@@ -11,9 +11,9 @@ const SkillTimeLine = ({stars}) => {
         $(this).css('width', '600rem');
     }
 
-    return (<div>
+    return (<div id='careers'>
     <Title>
-      Careers.
+      Careers
     </Title>
             
 

@@ -1,9 +1,9 @@
 import Title from '../components/title'
 
 const About = () =>(
-         <div>
+         <div id='about'>
             <Title>
-                About ME.
+                About ME
             </Title>
             <style jsx>{`
                     background: rgba(240, 240, 240, 0.7);                
