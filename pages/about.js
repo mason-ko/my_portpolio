@@ -13,7 +13,7 @@ const About = () =>(
 
                     h1 {
                         background: transparent;                       
-                        margin: 19rem;
+                        margin: 11rem;
                         color: black;
                         display: inline-block;                    
                         line-height: 1;
@@ -29,7 +29,7 @@ const About = () =>(
                     꾸준히 계속 공부해야하는것이 개발자의 기본이라고 생각하고<br/>
                     그것이 직업의 큰 매력이라고 생각합니다.<br/><br/>
                     제 인생에 개발자 이외의 직업은 없을거라 생각하고 있으며<br/>
-                    그것을 유지하기 위해 계속해서 노력합니다.<br/>
+                    그 생각을 유지하기 위해 계속해서 노력합니다.<br/>
                 </h1>
             </div>
         </div>
