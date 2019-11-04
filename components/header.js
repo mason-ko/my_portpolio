@@ -9,12 +9,12 @@ const Header = () => {
 
     return (
         <div>
-            <div class="ui large top fixed menu transition visible">
-            <div class="ui container">
-                <a class="item" onClick={()=>{headerClick('')}}>Home</a>
-                <a class="item" onClick={()=>{headerClick('#about')}}>About</a>
-                <a class="item" onClick={()=>{headerClick('#careers')}}>Careers</a>
-                <a class="item" onClick={()=>{headerClick('#contact')}}>Contact</a>
+            <div className="ui large top fixed menu transition visible">
+            <div className="ui container">
+                <a className="item" onClick={()=>{headerClick('')}}>Home</a>
+                <a className="item" onClick={()=>{headerClick('#about')}}>About</a>
+                <a className="item" onClick={()=>{headerClick('#careers')}}>Careers</a>
+                <a className="item" onClick={()=>{headerClick('#contact')}}>Contact</a>
             </div>
             </div>
         </div>

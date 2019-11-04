@@ -21,6 +21,6 @@
     "rank":"선임연구원",
     "position":"DataEngine개발팀",
     "description": "Server Rest API 및 Data 처리 Server 개발",
-    "skills":["csharp","mongodb","mariadb","cassandra","kafka",
+    "skills":["csharp","monoframework","dotnetcore","mongodb","mariadb","cassandra","kafka","restapi",
         "redis","javascript","nodejs","nodered","git","docker","jenkins"]
 }]
