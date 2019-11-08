@@ -14,7 +14,7 @@ const Contact = () =>(
 
                     h2 {
                         background: transparent;                       
-                        margin: 19rem;
+                        margin: 19rem 0rem;
                         color: black;
                         display: inline-block;                    
                         line-height: 1;
@@ -35,7 +35,6 @@ const Contact = () =>(
             <div>
                 <h2>Email: gym1029@gmail.com</h2>
                 <a href="https://github.com/mason-ko/">
-                    
                     <img src="/git.png"/>
                 </a>
             </div>

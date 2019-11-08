@@ -15,7 +15,7 @@ const Index = () => (
 
                    h1 {
                        background: transparent;                       
-                       margin: 6em 1em;
+                       margin: 18rem 0rem;
                        color: white;
                        display: inline-block;                    
                        line-height: 1;
@@ -25,7 +25,8 @@ const Index = () => (
             `}</style>
 
              <h1>
-                 안녕하세요. 고영민입니다.
+                 안녕하세요.<br/>
+                 고영민입니다.
              </h1>
         </div>
         <About/>
