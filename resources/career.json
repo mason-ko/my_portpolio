@@ -4,7 +4,7 @@
     "company":"엔쓰리엔",
     "rank":"선임연구원",
     "position":"DataEngine개발팀",
-    "description": "Server Rest API 및 Data 처리 Server 개발",
+    "description": "데이터 관제 솔루션의 Server API와 다양한 Data의 수집과 분산 처리 및 분산 저장 서버 개발",
     "skills":["csharp","monoframework","dotnetcore","mongodb","mariadb","cassandra","kafka","restapi",
         "redis","javascript","nodejs","nodered","git","docker","jenkins"]
 },{
@@ -13,7 +13,7 @@
     "company":"유비베이스",
     "rank":"연구원",
     "position":"개발팀",
-    "description": "메신저 개발 업무를 진행",
+    "description": "MS Lync 메신저 확장 프로그램 개발하는 회사로 메신저 관련 프로그램 개발",
     "skills":["csharp","wpf","wcf","mvvm","mssql"]
 },{
     "start":"2011.12",
@@ -21,6 +21,6 @@
     "company":"아람솔루션",
     "rank":"사원",
     "position":"개발팀",
-    "description": "펌웨어 개발 회사로 펌웨어 개발",
+    "description": "펌웨어 개발 회사로 임베디드 시스템 프로그래밍 개발",
     "skills":["c","embedded"]
 }]
